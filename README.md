@@ -91,6 +91,15 @@ The goal of this project is to preprocess and explore scRNA-seq data to uncover 
 
 ---
 
+🧬 Summary of Biological Insights and Conclusion from UMAP Analysis
+The UMAP visualization of NSCLC single-cell RNA-seq data highlights the cellular heterogeneity within the tumor microenvironment. Using Seurat, we identified distinct clusters that likely represent major cell types such as tumor epithelial cells, immune cells (T cells, B cells, NK cells), and stromal cells (fibroblasts, endothelial cells).
+
+This clustering reveals the complex structure of the tumor and provides a foundation for further biological analyses including cell-type identification, immune profiling, and cell-cell communication studies.
+
+Overall, the analysis demonstrates how single-cell RNA-seq can uncover detailed insights into tumor biology, which is essential for advancing personalized cancer research and immunotherapy strategies.
+
+---
+
 ## 🧪 Requirements
 
 * R (≥ 4.0)
